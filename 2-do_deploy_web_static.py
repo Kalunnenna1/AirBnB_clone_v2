@@ -3,7 +3,7 @@
 from os import path
 from fabric.api import put, run, cd, env
 
-env.hosts = ['34.204.186.164', '54.80.223.108']
+env.hosts = ['3.236.125.95', '100.26.120.89']
 env.user = 'ubuntu'
 
 
